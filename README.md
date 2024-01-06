@@ -1,42 +1,45 @@
-### Hi there 👋
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Amina Ibrahim
+=====================================================================================================================================
 
-### About Me 
-I'm so glad you found your way to my GitHub repository. My name is Amina and I'm a Cloud Engineer! I'm passionate about all things cloud-related, and I'm excited to share my journey with you.
+Cloud Infrastructure Engineer
+-----------------------------
 
-### 🔭 What Am I Currently Up To?
-Right now, I'm working on a small but exciting project! I'm building a deployment pipeline using the awesome trio of CodeCommit, CodeDeploy, and CodePipeline. 
+a former teacher who found a passion for technology and transitioned into the world of cloud. My journey from the classroom to the cloud has been a thrilling adventure, allowing me to blend my teaching experience with my love for building robust and scalable systems in the digital realm.
 
-### 🌱 Delving into the World of IaC
-One area that has caught my attention is Infrastructure as Code (IaC). I'm currently delving deeper into this world, exploring tools like Terraform to manage cloud infrastructure programmatically. It's incredibly empowering to define infrastructure in code and bring automation to the forefront of my work.
+*   🌍  I'm based in Atlanta, GA
+*   ✉️  You can contact me at [aminabrhm4@gmail.com](mailto:aminabrhm4@gmail.com)
+*   🧠  I'm learning Data and SQL
+*   🤝  I'm open to collaborating on all things cloud### Skills 
+<p align="left">
+<a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a><a href="https://angular.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/angularjs-colored.svg" width="36" height="36" alt="Angular" /></a><a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a><a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" /></a><a href="https://aws.amazon.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/aws-colored.svg" width="36" height="36" alt="Amazon Web Services" /></a><a href="https://www.linux.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/linux-colored.svg" width="36" height="36" alt="Linux" /></a>
+                    </p>
+                    
+                  ### Socials
+                  
+                  
+                <p align="left">
+                      <a href="https://www.github.com/amina-ibrahim2" target="_blank" rel="noreferrer">
+                    <picture>
+                    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" />
+                    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" />
+                    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" />
+                    </picture>
+                    </a>
+                      <a href="https://www.linkedin.com/in/aminaibrahim4/" target="_blank" rel="noreferrer">
+                    <picture>
+                    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" />
+                    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" />
+                    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" />
+                    </picture>
+                    </a>
+                      <a href="http://www.medium.com/@aminabrhm4" target="_blank" rel="noreferrer">
+                    <picture>
+                    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/medium-dark.svg" />
+                    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/medium.svg" />
+                    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/medium.svg" width="32" height="32" />
+                    </picture>
+                    </a></p>
 
-### 👯 Collaboration Is the Key
- I'm all about collaboration. Nothing beats the thrill of teaming up with other talented folks to build something extraordinary. If you have any exciting cloud-related projects or ideas brewing, let's join forces! Together, we can create innovative solutions that leverage the full potential of cloud technologies.
-
-### Let's Connect
-I'm super excited to connect with you! Feel free to reach out on LinkedIn. Thank you for stopping by.
-
-Happy coding,
-Amina 
 
 
 
-
-
-
-
-
-
-<!--
-**amina-ibrahim2/amina-ibrahim2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
