@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Amina Ibrahim
 =====================================================================================================================================
 
-Cloud Infrastructure Engineer
+Cloud Infrastructure Engineer. Teacher.
 -----------------------------
 
 a former teacher who found a passion for technology and transitioned into the world of cloud. My journey from the classroom to the cloud has been a thrilling adventure, allowing me to blend my teaching experience with my love for building robust and scalable systems in the digital realm.
