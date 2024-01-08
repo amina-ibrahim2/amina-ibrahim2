@@ -4,10 +4,9 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Cloud Infrastructure Engineer. Teacher.
 -----------------------------
 
-a former teacher who found a passion for technology and transitioned into the world of cloud. My journey from the classroom to the cloud has been a thrilling adventure, allowing me to blend my teaching experience with my love for building robust and scalable systems in the digital realm.
+a former teacher who found a passion for technology and transitioned into the world of cloud. 
 
 * 🌍  I'm based in Atlanta, GA
-* ✉️  You can contact me at [aminabrhm4@gmail.com](mailto:aminabrhm4@gmail.com)
 * 🧠  I'm learning Data and SQL
 * 🤝  I'm open to collaborating on all things cloud
 
