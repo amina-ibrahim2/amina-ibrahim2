@@ -7,7 +7,6 @@ Cloud Infrastructure Engineer.Technical Writer.Teacher.
 a former teacher who found a passion for technology and transitioned into the world of cloud. 
 
 * 🌍  I'm based in Atlanta, GA
-* 🧠  I'm learning Computer Networking
 * 🤝  I'm open to collaborating on all things cloud
 
 ### Skills
