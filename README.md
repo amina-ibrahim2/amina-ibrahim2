@@ -1,12 +1,12 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Amina Ibrahim
 =====================================================================================================================================
 
-Cloud Infrastructure Engineer.Technical Writer.Teacher.
+Cloud Engineer
 -----------------------------
 
 a former teacher who found a passion for technology and transitioned into the world of cloud. 
 
-* 🌍  I'm based in Atlanta, GA
+* 🌍  I'm based in Jeddah, KSA
 * 🤝  I'm open to collaborating on all things cloud
 
 ### Skills
